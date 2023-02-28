@@ -1,1 +1,2 @@
-# Batalha_Naval_Hard
+# BatalhaNavalExpert
+Jogo simples de batalha naval adaptado para o console.
